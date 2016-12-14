@@ -13,4 +13,7 @@ Gerador de dados baseado em datas aleatórias. Gera dados astrológicos reais ba
 ### Models
 Modelos de aprendizagem. Os modelos de aprendizagem do aplicativo. Os primeiros exemplos serão apresentados em forma de notebooks, pois serão mais didáticos, a versão final deve ser apresentada em classe python.
 
+### Resources
+Scripts PHP no qual o Generator se baseou para criar os dados astrológicos. Aqui está os arquivos originais para consulta e melhoria do Generator.
+
 TODO: Acrescentar mais pastas de acordo com o desenvolvimento
